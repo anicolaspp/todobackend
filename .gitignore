@@ -16,5 +16,6 @@ project/boot/
 .worksheet
 
 .idea/
+project/
 core/src/main/java/
 core/src/main/scala-2.11/
