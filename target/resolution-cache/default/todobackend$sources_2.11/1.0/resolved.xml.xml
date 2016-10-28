@@ -4,7 +4,7 @@
 		module="todobackend$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20161028091523"
+		publication="20161028092353"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
