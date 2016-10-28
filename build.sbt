@@ -28,4 +28,4 @@ libraryDependencies += "com.softwaremill.macwire" % "macros_2.11" % "2.2.5"
 resolvers ++= Seq(
   "twttr" at "https://maven.twttr.com/"
 )
-    
+
